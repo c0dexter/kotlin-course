@@ -24,8 +24,13 @@ object Enter {
         val tekst: String = "przykłąd"
         val polaczonyString = tekst + tekst
 
+        // Boolean
+        val prawda = true
+        val falsz = false
 
-
+        // || leniwe LUB
+        // && leniwe I
+        // !zaprzeczenie
 
 
 

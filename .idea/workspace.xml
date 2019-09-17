@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/Komentarze.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/Tablice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/TypyLogiczneOperatory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/ZmienneValVar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/Znakowe.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/Calkowitoliczbowe.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/Calkowitoliczbowe.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/c0dexter/Enter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/Enter.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

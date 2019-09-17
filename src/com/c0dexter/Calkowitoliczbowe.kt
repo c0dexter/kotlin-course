@@ -10,3 +10,4 @@ val szescdziesiatCzteryBity: Long = Long.MAX_VALUE
 // Typy zmiennoprzecinkowe
 val trzydziesciDwaBityF: Float = Float.MAX_VALUE
 val szescdziesiatCzteryBityF: Double = Double.MAX_VALUE
+

@@ -10,13 +10,26 @@ object Enter {
     fun main(args: Array<String>) {
         System.out.print("Hello")
 
-        var zmienna = 11
+        var zmienna: Int = 11
         zmienna = 12
 
-        val wartosc = 11
-        // wrtosc = 12  // nieprawidłowe
+        val wartosc: Int = 11
+        // wrtosc = 12  // nieprawi dłowe
+
+        // CHAR
+        val znak: Char = '\u0024'       // Char nie jest liczbą w rozumieniu niejawnym
+        // val znaki = znak + znak -> Niepoprawne, nie można dodawać znaków
+
+        // STRING
+        val tekst: String = "przykłąd"
+        val polaczonyString = tekst + tekst
+
+
+
+
 
 
 
     }
+
 }

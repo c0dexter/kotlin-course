@@ -1,6 +1,6 @@
 package com.c0dexter;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class EnterAlt {
     /*
@@ -21,5 +21,15 @@ public class EnterAlt {
 
         String tekst = "tekst";
         String sklejonyTekst = tekst + tekst;
+
+        int[] tablica = {1, 2, 3};
+        ArrayList<Integer> list = new ArrayList<Integer>();
+        list.clear();
+
+        Map map = new HashMap();
+        map.put(1, 1);
+        Queue queue = new ArrayDeque();
+        queue.add(1);
+
     }
 }

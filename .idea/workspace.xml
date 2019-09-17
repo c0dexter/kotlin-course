@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/Komentarze.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/Tablice.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/TypyLogiczneOperatory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/ZmienneValVar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/Znakowe.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/KolekcjeWstep.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/example-kotlin/Enter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/example-kotlin/META-INF/example-kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example-kotlin/META-INF/example-kotlin.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/c0dexter/Enter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/Enter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/EnterAlt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/EnterAlt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,22 +62,22 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Enter" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.c0dexter.Enter" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="example-kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Enter" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="MAIN_CLASS_NAME" value="com.c0dexter.Enter" />
+      <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Enter" />
+        <item itemvalue="Kotlin.com.c0dexter.Enter" />
       </list>
     </recent_temporary>
   </component>
@@ -96,6 +95,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.1080/1920.1080" />
+    <state x="692" y="305" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog" />
+    <state x="692" y="305" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.1080/1920.1080" />
     <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" />
     <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.1080/1920.1080" />
     <state width="1897" height="273" key="GridCell.Tab.0.bottom" />

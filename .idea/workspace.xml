@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/AutomatyczneRzutowanie.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/OperatoryBitowe.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/Enter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/Enter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/example-kotlin/META-INF/example-kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/example-kotlin/META-INF/example-kotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,5 +110,9 @@
     <state x="548" y="265" key="IDE.errors.dialog/1920.1080/1920.1080" />
     <state x="653" y="347" key="com.intellij.ide.util.TipDialog" />
     <state x="653" y="347" key="com.intellij.ide.util.TipDialog/1920.1080/1920.1080" />
+    <state x="624" y="237" key="run.anything.popup" />
+    <state x="624" y="237" key="run.anything.popup/1920.1080/1920.1080" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/1920.1080/1920.1080" />
   </component>
 </project>

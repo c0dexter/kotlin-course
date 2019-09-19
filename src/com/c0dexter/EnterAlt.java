@@ -6,7 +6,7 @@ public class EnterAlt {
 
     public static void main(ArrayList<String> args) {
 
-        boolean i = true ? true: false;
+        boolean isPies = true ? true: false;
 
         if (true) {
             System.out.println("prawda");

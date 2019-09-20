@@ -35,6 +35,25 @@ fun main(args: Array<String>) {
         }
     }
 
+    // PĘTLA FOR -> udoskonalona wersja pętli FOR-EACH
+    val lista = arrayListOf<Int>()
+    for(element in lista){
+        // tu sie wykonują metody dla każdego elementu na liście
+    }
+
+    // Zastąpienie pętli for(int i = 0; i<=4; i++){}
+    for(i in 1..4){ // opcjonalnie: step 2 (co 2 elementy)
+        // wykonanie instrukcji
+    }
+
+    // W kotlinie, w pętli można mieć dostęp zarówno do kluczy jak i wartości (przydante przy mapach)
+    val array = arrayOf(1, 3, 5)
+    for ((index, value) in array.withIndex()){
+
+    }
+
+
+
     fun postacStoi(): Boolean {
         println("Stoję sobie.")
         return true

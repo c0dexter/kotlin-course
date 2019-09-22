@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/PeteaWhileDoWhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/Zakresy.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.c0dexter.InstrrukcjeSterujaceWstepKt">
+  <component name="RunManager" selected="Kotlin.com.c0dexter.ZakresyKt">
     <configuration name="com.c0dexter.Enter" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="example-kotlin" />
       <option name="VM_PARAMETERS" value="" />
@@ -104,8 +104,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.c0dexter.ZakresyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="example-kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.c0dexter.ZakresyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.c0dexter.ZakresyKt" />
         <item itemvalue="Kotlin.com.c0dexter.InstrrukcjeSterujaceWstepKt" />
         <item itemvalue="Kotlin.com.c0dexter.TechnikiStringoweKt" />
         <item itemvalue="Kotlin.com.c0dexter.OperatoryPorownaniaKt" />

@@ -1,7 +1,7 @@
 package com.c0dexter.konstruktoryWtorne
 
 // Konstruktor pierwotny
-class ExampleKotlin constructor(var liczba: Int) {
+class ExampleKotlinA constructor(var liczba: Int) {
 
     var tekst: String = "tekst"
 
@@ -21,7 +21,7 @@ class ExampleKotlin constructor(var liczba: Int) {
 }
 
 
-class ExampleKotlin1 (var liczba: Int,
+class ExampleKotlinB (var liczba: Int,
                       var tekst: String = "tekst"){
 // Ten zapis jest równoznaczny z zapisem w klasie "ExampleJava.class"
 }

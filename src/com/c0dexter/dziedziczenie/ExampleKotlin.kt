@@ -1,7 +1,5 @@
-package com.c0dexter.konstruktoryWtorne
-
-// KLASA ABSTRAKCYJNA z natury nie jest finalna, więc jest OTWARTA: nie trzeba dawać modyfikatora dostępu "open"
-abstract class ExampleKotlinC constructor(var liczba: Int) {
+// Konstruktor pierwotny
+open class ExampleKotlin constructor(var liczba: Int) {
 
     var tekst: String = "tekst"
 
@@ -15,9 +13,6 @@ abstract class ExampleKotlinC constructor(var liczba: Int) {
         this.tekst = tekst
     }
 
-    // Funkcja abstrakcyjna musi być zaimplementowana w klasie rozszerzającej
-    abstract fun funkcja()
-
 }
 
 /*
@@ -26,9 +21,7 @@ DZIEDZICZENIE:
 - przekazujemy do konstruktora argumenty z nadklasy
 - otworzyć klasę którą rozszerzamy za pomocą modyfikatora dostępu "open" (domyślnie wszystkie klasy w Kotlinie są finalne)
  */
-class ExampleKotlinD (var number: Int,
-                      var text: String = "tekst"): ExampleKotlinC(number, text){
-    override fun funkcja(){
-    TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
-    }
+
+class ExampleKotlin1 (var number: Int,
+                      var text: String = "tekst"): ExampleKotlin(number, text){
 }

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/konstruktoryPierwotne/ExampleJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/konstruktoryPierwotne/ExampleKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/konstruktoryWtorne/ExampleJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/konstruktoryWtorne/ExampleKotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,6 +145,8 @@
   <component name="WindowStateProjectService">
     <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
     <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.1080/1920.1080" />
+    <state x="768" y="239" width="374" height="563" key="#com.intellij.ide.util.MemberChooser" />
+    <state x="768" y="239" width="374" height="563" key="#com.intellij.ide.util.MemberChooser/1920.1080/1920.1080" />
     <state x="692" y="305" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog" />
     <state x="692" y="305" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.1080/1920.1080" />
     <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" />

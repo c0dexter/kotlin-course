@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/getterySettery/ExampleGettersSettersJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/getterySettery/GettersSettersKorlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/getterySettery/GettersSettersKorlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/getterySettery/GettersSettersKorlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,15 +168,15 @@
     <state width="1897" height="273" key="GridCell.Tab.0.left/1920.1080/1920.1080" timestamp="1569255734315" />
     <state width="1897" height="273" key="GridCell.Tab.0.right" timestamp="1569255734315" />
     <state width="1897" height="273" key="GridCell.Tab.0.right/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state x="548" y="265" width="824" height="509" key="IDE.errors.dialog" timestamp="1569270483186">
+    <state x="548" y="265" width="824" height="509" key="IDE.errors.dialog" timestamp="1569274582233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="548" y="265" width="824" height="509" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569270483186" />
+    <state x="548" y="265" width="824" height="509" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569274582233" />
     <state x="548" y="265" key="IDE.errors.dialog/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state x="653" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1569255756908">
+    <state x="653" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1569353427982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="653" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569255756908" />
+    <state x="653" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569353427982" />
     <state x="653" y="347" key="com.intellij.ide.util.TipDialog/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="624" y="237" key="run.anything.popup" timestamp="1569255734315" />
     <state x="624" y="237" key="run.anything.popup/1920.1080/1920.1080" timestamp="1569255734315" />

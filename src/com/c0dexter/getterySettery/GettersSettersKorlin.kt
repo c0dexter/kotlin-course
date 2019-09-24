@@ -31,9 +31,9 @@ class GettersSettersKorlin {
     get() {
         if(field != null){
         return true
-    } else{
+        } else{
         return false
-    }
+        }
     }
 
 

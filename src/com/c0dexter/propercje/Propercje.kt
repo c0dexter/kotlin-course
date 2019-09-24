@@ -1,6 +1,6 @@
 package com.c0dexter.propercje
 
-class PropercjeWstep{
+class Propercje{
 
     /*
     PROPERCJE - w większości zachowują się jak pola w Javie

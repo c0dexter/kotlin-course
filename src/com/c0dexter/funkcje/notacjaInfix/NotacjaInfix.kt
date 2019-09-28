@@ -1,4 +1,4 @@
-package com.c0dexter.funkcjeWstep.zmiennaLiczbaArgumentow
+package com.c0dexter.funkcje.zmiennaLiczbaArgumentow
 
 class NotacjaInfix {
 

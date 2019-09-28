@@ -1,5 +1,5 @@
-package com.c0dexter.funkcjeWstep.nazywaneArgumenty
- import com.c0dexter.funkcjeWstep.NowaKlasa
+package com.c0dexter.funkcje.nazywaneArgumenty
+ import com.c0dexter.funkcje.NowaKlasa
 
 object FunkcjeMain2 {
 

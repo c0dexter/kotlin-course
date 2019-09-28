@@ -1,4 +1,4 @@
-package com.c0dexter.funkcjeWstep.zmiennaLiczbaArgumentow
+package com.c0dexter.funkcje.zmiennaLiczbaArgumentow
 
 class Funkcje {
     fun printHello(textToPrint: String, int: Int = 3, innyInt: Int = 4): Boolean{

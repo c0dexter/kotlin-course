@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeLokalne/LocalFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeLokalne/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy/LambdaClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy/MainLambda.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/notacjaInfix/MainInfix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/notacjaInfix/MainInfix.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/Funkcje.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/Funkcje.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/FunkcjeMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/FunkcjeMain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeJednowyrazeniowe/Funkcje.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/funkcjeJednowyrazeniowe/Funkcje.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeLokalne/LocalFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/funkcjeLokalne/LocalFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeLokalne/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/funkcjeLokalne/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/Funkcje2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/nazywaneArgumenty/Funkcje2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/FunkcjeMain2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/nazywaneArgumenty/FunkcjeMain2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/notacjaInfix/MainInfix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/notacjaInfix/MainInfix.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/notacjaInfix/NotacjaInfix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/notacjaInfix/NotacjaInfix.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/parametryArgumenty/Funkcje1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/parametryArgumenty/Funkcje1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/parametryArgumenty/FunkcjeMain1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/parametryArgumenty/FunkcjeMain1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/zmiennaLiczbaArgumentow/Funkcje.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/zmiennaLiczbaArgumentow/Funkcje.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/zmiennaLiczbaArgumentow/MainMethod.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/zmiennaLiczbaArgumentow/MainMethod.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +54,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeLokalne" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -54,11 +66,11 @@
       <recent name="com.c0dexter.poznaInicjalizacja" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeLokalne" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/notacjaInfix" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/parametryArgumenty" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/nadpisywaaniePropercji" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/c0dexter/abstrakcyjnosc" />
@@ -91,53 +103,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.c0dexter.funkcjeWstep.FunkcjeMain1" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.c0dexter.funkcje.FunkcjeMain1" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcjeWstep.FunkcjeMain1" />
+      <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcje.FunkcjeMain1" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.c0dexter.funkcjeWstep.FunkcjeMain2" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.c0dexter.funkcje.FunkcjeMain2" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcjeWstep.FunkcjeMain2" />
+      <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcje.FunkcjeMain2" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.c0dexter.funkcjeWstep.FunkcjeMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.c0dexter.funkcje.FunkcjeMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcjeWstep.FunkcjeMainKt" />
+      <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcje.FunkcjeMainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.c0dexter.funkcjeWstep.zmiennaLiczbaArgumentow.Main" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.c0dexter.funkcje.zmiennaLiczbaArgumentow.MainLambda" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcjeWstep.zmiennaLiczbaArgumentow.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcje.zmiennaLiczbaArgumentow.MainLambda" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,17 +157,17 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.com.c0dexter.ZakresyKt" />
-      <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain1" />
-      <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMainKt" />
-      <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain2" />
-      <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.zmiennaLiczbaArgumentow.MainInfix" />
+      <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain1" />
+      <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMainKt" />
+      <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain2" />
+      <item itemvalue="Kotlin.com.c0dexter.funkcje.zmiennaLiczbaArgumentow.MainLambda" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.zmiennaLiczbaArgumentow.MainInfix" />
-        <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain2" />
-        <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain1" />
-        <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMainKt" />
+        <item itemvalue="Kotlin.com.c0dexter.funkcje.zmiennaLiczbaArgumentow.MainLambda" />
+        <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain2" />
+        <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain1" />
+        <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMainKt" />
         <item itemvalue="Kotlin.com.c0dexter.ZakresyKt" />
       </list>
     </recent_temporary>
@@ -188,25 +200,25 @@
     </state>
     <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569663177475" />
     <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1569696129901">
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1569700744002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569696129901" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569700744002" />
     <state width="1897" height="273" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1569696129901">
+    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1569700744002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569696129901" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569700744002" />
     <state width="1897" height="273" key="GridCell.Tab.0.center/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1569696129901">
+    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1569700744001">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569696129901" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569700744001" />
     <state width="1897" height="273" key="GridCell.Tab.0.left/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1569696129901">
+    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1569700744002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569696129901" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569700744002" />
     <state width="1897" height="273" key="GridCell.Tab.0.right/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="548" y="265" width="824" height="519" key="IDE.errors.dialog" timestamp="1569665691386">
       <screen x="0" y="0" width="1920" height="1040" />

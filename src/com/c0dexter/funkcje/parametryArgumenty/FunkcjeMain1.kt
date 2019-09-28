@@ -1,4 +1,4 @@
-package com.c0dexter.funkcjeWstep
+package com.c0dexter.funkcje
 
 object FunkcjeMain1 {
 

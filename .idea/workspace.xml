@@ -2,42 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/Funkcje2.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/FunkcjeMain2.kt" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeJednowyrazeniowe/Funkcje.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/FunkcjeMain2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/FunkcjeMain2.kt" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="FunkcjeMain2.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/FunkcjeMain2.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Funkcje2.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/Funkcje2.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,95 +33,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/Funkcje1.kt" />
-        <option value="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/FunkcjeMain1.kt" />
-        <option value="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/FunkcjeMain2.kt" />
-        <option value="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/Funkcje2.kt" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3365" />
-    <option name="y" value="-156" />
-    <option name="width" value="1897" />
-    <option name="height" value="1053" />
-  </component>
   <component name="ProjectId" id="1QvtHZ6aovXO8eujfFAT1HSNPjK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="c0dexter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="c0dexter" type="462c0819:PsiDirectoryNode" />
-              <item name="funkcjeWstep" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="c0dexter" type="462c0819:PsiDirectoryNode" />
-              <item name="funkcjeWstep" type="462c0819:PsiDirectoryNode" />
-              <item name="nazywaneArgumenty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="c0dexter" type="462c0819:PsiDirectoryNode" />
-              <item name="funkcjeWstep" type="462c0819:PsiDirectoryNode" />
-              <item name="parametryArgumenty" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -156,8 +42,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/parametryArgumenty" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
@@ -189,7 +78,7 @@
   </component>
   <component name="RunManager" selected="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain2">
     <configuration name="com.c0dexter.InstrrukcjeSterujaceWstepKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -197,11 +86,12 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.c0dexter.InstrrukcjeSterujaceWstepKt" />
       <option name="WORKING_DIRECTORY" />
-      <module name="example-kotlin" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="com.c0dexter.ZakresyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -209,11 +99,12 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.c0dexter.ZakresyKt" />
       <option name="WORKING_DIRECTORY" />
-      <module name="example-kotlin" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="com.c0dexter.funkcjeWstep.FunkcjeMain1" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -221,11 +112,12 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcjeWstep.FunkcjeMain1" />
       <option name="WORKING_DIRECTORY" />
-      <module name="example-kotlin" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="com.c0dexter.funkcjeWstep.FunkcjeMain2" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -233,11 +125,12 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcjeWstep.FunkcjeMain2" />
       <option name="WORKING_DIRECTORY" />
-      <module name="example-kotlin" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="com.c0dexter.funkcjeWstep.FunkcjeMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -245,28 +138,26 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcjeWstep.FunkcjeMainKt" />
       <option name="WORKING_DIRECTORY" />
-      <module name="example-kotlin" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.com.c0dexter.InstrrukcjeSterujaceWstepKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.com.c0dexter.ZakresyKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain1" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMainKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain2" />
+    <list>
+      <item itemvalue="Kotlin.com.c0dexter.InstrrukcjeSterujaceWstepKt" />
+      <item itemvalue="Kotlin.com.c0dexter.ZakresyKt" />
+      <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain1" />
+      <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMainKt" />
+      <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain2" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain2" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain1" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMainKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.com.c0dexter.ZakresyKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.com.c0dexter.InstrrukcjeSterujaceWstepKt" />
+      <list>
+        <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain2" />
+        <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMain1" />
+        <item itemvalue="Kotlin.com.c0dexter.funkcjeWstep.FunkcjeMainKt" />
+        <item itemvalue="Kotlin.com.c0dexter.ZakresyKt" />
+        <item itemvalue="Kotlin.com.c0dexter.InstrrukcjeSterujaceWstepKt" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -281,41 +172,6 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="3360" y="-157" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="WindowStateProjectService">
     <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1569255734313" />
     <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.1080/1920.1080" timestamp="1569255734315" />
@@ -326,7 +182,10 @@
     <state x="768" y="239" width="374" height="563" key="#com.intellij.ide.util.MemberChooser/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="692" y="305" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1569255734315" />
     <state x="692" y="305" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1569255734315" />
+    <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1569663177475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569663177475" />
     <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.1080/1920.1080" timestamp="1569255734315" />
     <state width="1874" height="273" key="GridCell.Tab.0.bottom" timestamp="1569445336530">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -348,41 +207,29 @@
     </state>
     <state width="1874" height="273" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569445336530" />
     <state width="1897" height="273" key="GridCell.Tab.0.right/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state x="548" y="265" width="824" height="519" key="IDE.errors.dialog" timestamp="1569443828062">
+    <state x="548" y="265" width="824" height="519" key="IDE.errors.dialog" timestamp="1569665691386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="548" y="265" width="824" height="519" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569443828062" />
+    <state x="548" y="265" width="824" height="519" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569665691386" />
     <state x="548" y="265" key="IDE.errors.dialog/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state x="653" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1569439270341">
+    <state x="2368" y="161" width="1024" height="846" key="SettingsEditor" timestamp="1569666992985">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="155" width="1024" height="731" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569665453688" />
+    <state x="2368" y="161" width="1024" height="846" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1569666992985" />
+    <state x="2573" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1569667404675">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="653" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569667324316" />
+    <state x="2573" y="360" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1569667404675" />
+    <state x="653" y="347" key="com.intellij.ide.util.TipDialog/1920.1080/1920.1080" timestamp="1569255734315" />
+    <state x="335" y="247" width="1239" height="547" key="new project wizard" timestamp="1569666156473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="653" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569439270341" />
-    <state x="653" y="347" key="com.intellij.ide.util.TipDialog/1920.1080/1920.1080" timestamp="1569255734315" />
+    <state x="335" y="247" width="1239" height="547" key="new project wizard/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569666156473" />
     <state x="624" y="237" key="run.anything.popup" timestamp="1569255734315" />
     <state x="624" y="237" key="run.anything.popup/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1569255734315" />
     <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/1920.1080/1920.1080" timestamp="1569255734316" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/FunkcjeMain2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty/Funkcje2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

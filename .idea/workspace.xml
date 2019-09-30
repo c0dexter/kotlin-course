@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach/Implementacja.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach/Interfejs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow/Implementacja2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow/Interfejs2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow/InterfejsKolizja.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach/Implementacja.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach/Implementacja1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach/Interfejs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach/Interfejs1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +19,9 @@
       <list>
         <option value="Kotlin Object" />
         <option value="Kotlin File" />
-        <option value="Kotlin Interface" />
         <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
       </list>
     </option>
   </component>
@@ -42,7 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -61,11 +64,11 @@
       <recent name="com.c0dexter.funkcje.interfejsy.tworzenieImplementacja" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeLokalne" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/notacjaInfix" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/nazywaneArgumenty" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -179,10 +182,10 @@
   <component name="WindowStateProjectService">
     <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1569255734313" />
     <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state x="768" y="239" width="407" height="563" key="#com.intellij.ide.util.MemberChooser" timestamp="1569705098267">
+    <state x="768" y="239" width="407" height="563" key="#com.intellij.ide.util.MemberChooser" timestamp="1569876725761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="768" y="239" width="407" height="563" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569705098267" />
+    <state x="768" y="239" width="407" height="563" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569876725761" />
     <state x="768" y="239" width="374" height="563" key="#com.intellij.ide.util.MemberChooser/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="692" y="305" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1569255734315" />
     <state x="692" y="305" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.1080/1920.1080" timestamp="1569255734315" />

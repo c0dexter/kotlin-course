@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/dane/kopiowanie/Dane1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/dane/kopiowanie/MainDane1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/dane/destrukturyzacja/Dane2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/dane/destrukturyzacja/MainDane2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/notacjaInfix" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.c0dexter.dane.destrukturyzacja" />
       <recent name="com.c0dexter.dane.kopiowanie" />
       <recent name="com.c0dexter.funkcjeWstep.zmiennaLiczbaArgumentow" />
       <recent name="com.c0dexter.poznaInicjalizacja" />
@@ -81,7 +82,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.c0dexter.dane.kopiowanie.MainDane1">
+  <component name="RunManager" selected="Kotlin.com.c0dexter.dane.destrukturyzacja.MainDane2">
+    <configuration name="com.c0dexter.dane.destrukturyzacja.MainDane2" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="example-kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.c0dexter.dane.destrukturyzacja.MainDane2" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.c0dexter.dane.kopiowanie.MainDane1" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
@@ -121,19 +135,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.c0dexter.funkcje.FunkcjeMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="example-kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcje.FunkcjeMainKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.c0dexter.funkcje.zmiennaLiczbaArgumentow.MainLambda" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
@@ -149,18 +150,18 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain1" />
-      <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMainKt" />
       <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain2" />
       <item itemvalue="Kotlin.com.c0dexter.funkcje.zmiennaLiczbaArgumentow.MainLambda" />
       <item itemvalue="Kotlin.com.c0dexter.dane.kopiowanie.MainDane1" />
+      <item itemvalue="Kotlin.com.c0dexter.dane.destrukturyzacja.MainDane2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.c0dexter.dane.destrukturyzacja.MainDane2" />
         <item itemvalue="Kotlin.com.c0dexter.dane.kopiowanie.MainDane1" />
         <item itemvalue="Kotlin.com.c0dexter.funkcje.zmiennaLiczbaArgumentow.MainLambda" />
         <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain2" />
         <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain1" />
-        <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -192,29 +193,29 @@
     </state>
     <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569663177475" />
     <state x="810" y="412" width="290" height="217" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state x="677" y="180" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1569875147719">
+    <state x="677" y="180" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1569967115122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="677" y="180" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569875147719" />
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1569965805082">
+    <state x="677" y="180" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569967115122" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1569966754930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569965805082" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569966754930" />
     <state width="1897" height="273" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1569965805082">
+    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1569966754929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569965805082" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569966754929" />
     <state width="1897" height="273" key="GridCell.Tab.0.center/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1569965805081">
+    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1569966754929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569965805081" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569966754929" />
     <state width="1897" height="273" key="GridCell.Tab.0.left/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1569965805082">
+    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1569966754930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569965805082" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569966754930" />
     <state width="1897" height="273" key="GridCell.Tab.0.right/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="548" y="265" width="824" height="519" key="IDE.errors.dialog" timestamp="1569963547633">
       <screen x="0" y="0" width="1920" height="1040" />

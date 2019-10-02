@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/pieczetowanie/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/obiekty/Task1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,19 +41,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/obiekty" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeLokalne" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/notacjaInfix" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/abstrakcyjnosc" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/dziedziczenie" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="com.c0dexter.dane.gotoweModeleDanych" />
@@ -65,9 +62,12 @@
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="com.c0dexter.funkcje.interfejsy.tworzenieImplementacja" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/abstrakcyjnosc" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/dziedziczenie" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeLokalne" />
     </key>
   </component>
   <component name="RunDashboard">

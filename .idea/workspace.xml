@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/obiekty/wyrazeniaObiektowe/Wywolanie.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow/Obiekt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow/Wywolanie1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +14,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Object" />
         <option value="Class" />
         <option value="Kotlin Interface" />
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
       </list>
     </option>
   </component>
@@ -41,7 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/obiekty" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -63,11 +64,11 @@
       <recent name="com.c0dexter.funkcje.interfejsy.tworzenieImplementacja" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/funkcjeLokalne" />
     </key>
   </component>
   <component name="RunDashboard">

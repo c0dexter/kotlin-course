@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/dane/destrukturyzacja/Dane2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/dane/destrukturyzacja/MainDane2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/pieczetowanie/Task.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
         <option value="Kotlin Object" />
         <option value="Class" />
         <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -57,6 +56,7 @@
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcjeWstep/notacjaInfix" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.c0dexter.dane.gotoweModeleDanych" />
       <recent name="com.c0dexter.dane.destrukturyzacja" />
       <recent name="com.c0dexter.dane.kopiowanie" />
       <recent name="com.c0dexter.funkcjeWstep.zmiennaLiczbaArgumentow" />
@@ -197,25 +197,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="677" y="180" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569967115122" />
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1569966754930">
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1569967320904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569966754930" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569967320904" />
     <state width="1897" height="273" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1569966754929">
+    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1569967320904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569966754929" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569967320904" />
     <state width="1897" height="273" key="GridCell.Tab.0.center/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1569966754929">
+    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1569967320904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569966754929" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569967320904" />
     <state width="1897" height="273" key="GridCell.Tab.0.left/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1569966754930">
+    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1569967320904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569966754930" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569967320904" />
     <state width="1897" height="273" key="GridCell.Tab.0.right/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="548" y="265" width="824" height="519" key="IDE.errors.dialog" timestamp="1569963547633">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -227,10 +227,10 @@
     </state>
     <state x="448" y="155" width="1024" height="731" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569665453688" />
     <state x="2368" y="161" width="1024" height="846" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1569666992985" />
-    <state x="653" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1569950043585">
+    <state x="653" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1570042843058">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="653" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569950043585" />
+    <state x="653" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570042843058" />
     <state x="2573" y="360" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1569693540764" />
     <state x="653" y="347" key="com.intellij.ide.util.TipDialog/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="535" y="259" width="839" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1569694506961">

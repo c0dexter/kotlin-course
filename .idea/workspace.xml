@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow/Obiekt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow/Wywolanie1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/obiekty/ObjektCompanion/CompanionClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
         <option value="Class" />
         <option value="Kotlin Interface" />
         <option value="Kotlin File" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -228,10 +227,10 @@
     </state>
     <state x="448" y="155" width="1024" height="731" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569665453688" />
     <state x="2368" y="161" width="1024" height="846" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1569666992985" />
-    <state x="653" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1570042843058">
+    <state x="653" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1570135077011">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="653" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570042843058" />
+    <state x="653" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570135077011" />
     <state x="2573" y="360" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1569693540764" />
     <state x="653" y="347" key="com.intellij.ide.util.TipDialog/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="535" y="259" width="839" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1569694506961">

@@ -5,6 +5,7 @@ enum class HairColor(val rgb: Int) {
     RUDE(rgb = 0xb06500),
     CZARNE(rgb = 0x000000),
     POPIELATE(rgb = 0xaaaaaa)
+
 }
 
 /*

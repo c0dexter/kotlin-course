@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/typyWyliczeniowe/HairColor.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0dexter/typyWyliczeniowe/HairColor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0dexter/typyWyliczeniowe/HairColor.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,12 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/abstrakcyjnosc" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/dziedziczenie" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="com.c0dexter.dane.gotoweModeleDanych" />
@@ -63,12 +66,9 @@
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="com.c0dexter.funkcje.interfejsy.tworzenieImplementacja" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/abstrakcyjnosc" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/dziedziczenie" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -182,10 +182,10 @@
   <component name="WindowStateProjectService">
     <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1569255734313" />
     <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state x="768" y="239" width="407" height="563" key="#com.intellij.ide.util.MemberChooser" timestamp="1570051263352">
+    <state x="768" y="239" width="407" height="563" key="#com.intellij.ide.util.MemberChooser" timestamp="1570140820098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="768" y="239" width="407" height="563" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570051263352" />
+    <state x="768" y="239" width="407" height="563" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570140820098" />
     <state x="768" y="239" width="374" height="563" key="#com.intellij.ide.util.MemberChooser/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="692" y="305" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1569255734315" />
     <state x="692" y="305" width="525" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.1080/1920.1080" timestamp="1569255734315" />

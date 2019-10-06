@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/rozszerzeniaDlaNulli/Extensions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/propercjeRozszerzajace/Extensions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/rozszerzeniaDlaNulli" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/propercjeRozszerzajace" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -65,11 +65,11 @@
       <recent name="com.c0dexter.funkcje.interfejsy.tworzenieImplementacja" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/propercjeRozszerzajace" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/rozszerzeniaDlaNulli" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/statycznaNaturaRozszerzen" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
     </key>
   </component>
   <component name="RunDashboard">

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/statycznaNaturaRozszerzen/ExtResolving.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/statycznaNaturaRozszerzen/RozszerzeniaMain2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/rozszerzeniaDlaNulli/Extensions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/statycznaNaturaRozszerzen" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/rozszerzeniaDlaNulli" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -66,11 +65,11 @@
       <recent name="com.c0dexter.funkcje.interfejsy.tworzenieImplementacja" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/rozszerzeniaDlaNulli" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/statycznaNaturaRozszerzen" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty" />
       <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -200,25 +199,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="677" y="180" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570141090956" />
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1570394990334">
+    <state width="936" height="274" key="GridCell.Tab.0.bottom" timestamp="1570395479015">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570394990334" />
+    <state width="936" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570395479015" />
     <state width="1897" height="273" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1570394990334">
+    <state width="936" height="274" key="GridCell.Tab.0.center" timestamp="1570395479014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570394990334" />
+    <state width="936" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570395479014" />
     <state width="1897" height="273" key="GridCell.Tab.0.center/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1570394990333">
+    <state width="936" height="274" key="GridCell.Tab.0.left" timestamp="1570395479014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570394990333" />
+    <state width="936" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570395479014" />
     <state width="1897" height="273" key="GridCell.Tab.0.left/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1570394990334">
+    <state width="936" height="274" key="GridCell.Tab.0.right" timestamp="1570395479014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570394990334" />
+    <state width="936" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570395479014" />
     <state width="1897" height="273" key="GridCell.Tab.0.right/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="548" y="265" width="824" height="519" key="IDE.errors.dialog" timestamp="1569963547633">
       <screen x="0" y="0" width="1920" height="1040" />

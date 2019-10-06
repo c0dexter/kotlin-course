@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77ce24a7-2455-49ca-898a-518cb8b3fda9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/Extensions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/RozszerzeniaMain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/statycznaNaturaRozszerzen/ExtResolving.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/statycznaNaturaRozszerzen/RozszerzeniaMain2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,19 +43,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/statycznaNaturaRozszerzen" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/lambdy" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/abstrakcyjnosc" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/dziedziczenie" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="com.c0dexter.typyWyliczeniowe" />
@@ -68,9 +65,12 @@
       <recent name="com.c0dexter.typyWyliczeniowe.anonymousExpressions" />
       <recent name="com.c0dexter.funkcje.interfejsy.tworzenieImplementacja" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/abstrakcyjnosc" />
-      <recent name="$PROJECT_DIR$/src/com/c0dexter/dziedziczenie" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/rozszerzenia/statycznaNaturaRozszerzen" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty/deklaracjeObiektow" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/obiekty" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/rozwiazywanieKonfliktow" />
+      <recent name="$PROJECT_DIR$/src/com/c0dexter/funkcje/interfejsy/propercjeWInterfejsach" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -85,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.c0dexter.dane.destrukturyzacja.MainDane2">
+  <component name="RunManager" selected="Kotlin.com.c0dexter.rozszerzenia.RozszerzeniaMain2">
     <configuration name="com.c0dexter.dane.destrukturyzacja.MainDane2" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="example-kotlin" />
       <option name="VM_PARAMETERS" />
@@ -107,19 +107,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.c0dexter.dane.kopiowanie.MainDane1" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.c0dexter.funkcje.FunkcjeMain1" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="example-kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.c0dexter.funkcje.FunkcjeMain1" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,20 +138,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.c0dexter.rozszerzenia.RozszerzeniaMain2" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="example-kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.c0dexter.rozszerzenia.RozszerzeniaMain2" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain1" />
       <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain2" />
       <item itemvalue="Kotlin.com.c0dexter.funkcje.zmiennaLiczbaArgumentow.MainLambda" />
       <item itemvalue="Kotlin.com.c0dexter.dane.kopiowanie.MainDane1" />
       <item itemvalue="Kotlin.com.c0dexter.dane.destrukturyzacja.MainDane2" />
+      <item itemvalue="Kotlin.com.c0dexter.rozszerzenia.RozszerzeniaMain2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.c0dexter.rozszerzenia.RozszerzeniaMain2" />
         <item itemvalue="Kotlin.com.c0dexter.dane.destrukturyzacja.MainDane2" />
         <item itemvalue="Kotlin.com.c0dexter.dane.kopiowanie.MainDane1" />
         <item itemvalue="Kotlin.com.c0dexter.funkcje.zmiennaLiczbaArgumentow.MainLambda" />
         <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain2" />
-        <item itemvalue="Kotlin.com.c0dexter.funkcje.FunkcjeMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -200,25 +200,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="677" y="180" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570141090956" />
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1569967320904">
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1570394990334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569967320904" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570394990334" />
     <state width="1897" height="273" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1569967320904">
+    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1570394990334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569967320904" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570394990334" />
     <state width="1897" height="273" key="GridCell.Tab.0.center/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1569967320904">
+    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1570394990333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569967320904" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570394990333" />
     <state width="1897" height="273" key="GridCell.Tab.0.left/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1569967320904">
+    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1570394990334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569967320904" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570394990334" />
     <state width="1897" height="273" key="GridCell.Tab.0.right/1920.1080/1920.1080" timestamp="1569255734315" />
     <state x="548" y="265" width="824" height="519" key="IDE.errors.dialog" timestamp="1569963547633">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -246,7 +246,10 @@
     <state x="335" y="247" width="1239" height="547" key="new project wizard/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1569666156473" />
     <state x="624" y="237" key="run.anything.popup" timestamp="1569255734315" />
     <state x="624" y="237" key="run.anything.popup/1920.1080/1920.1080" timestamp="1569255734315" />
-    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1569255734315" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1570394409994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1570394409994" />
     <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/1920.1080/1920.1080" timestamp="1569255734316" />
   </component>
 </project>
